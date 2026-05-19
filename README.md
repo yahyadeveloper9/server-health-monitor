@@ -17,3 +17,6 @@ Simple Linux server monitoring toolkit for uptime, memory usage, disk usage, and
 - Improve Docker configuration
 - Add automated testing
 - Improve environment validation
+
+
+_Last updated for deployment workflow improvements._
